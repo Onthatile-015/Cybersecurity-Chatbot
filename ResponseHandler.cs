@@ -9,7 +9,7 @@ namespace PROG
     internal class ResponseHandler
     {
 
-
+        //Response handler added to manage chatbot responses based on user input
         public static string GetResponse(string input)
         {
             if (string.IsNullOrWhiteSpace(input))
