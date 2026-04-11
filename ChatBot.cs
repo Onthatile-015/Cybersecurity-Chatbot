@@ -13,7 +13,7 @@ namespace PROG
 
         private string userName;
         private string message = " How can i help you today? ";
-
+    
         public void ShowDivider()
         { 
         Console.ForegroundColor = ConsoleColor.White;
@@ -59,7 +59,7 @@ namespace PROG
                 Console.ResetColor();
 
 
-                // Check if user wants to exit
+                // Check if the user wants to exit
                 if (input != null && input.ToLower() == "bye")
                 {
                     ShowDivider();
