@@ -63,6 +63,7 @@ namespace PROG
                 // Check if the user wants to exit
                 if (input != null && input.ToLower() == "bye")
                 {
+                    // if user wants to exit, break the loop
                     ShowDivider();
                     Console.ForegroundColor = ConsoleColor.DarkCyan;
                     TypingEffect("Bot: Goodbye! Stay safe online");
