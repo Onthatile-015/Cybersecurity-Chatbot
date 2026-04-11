@@ -11,7 +11,7 @@ namespace PROG
     {
         static void Main(string[] args)
         {
-
+                // Setting console title
                 Console.Title = "Cybersecurity Awareness Bot";
 
                 // Calling the voice greeting
@@ -25,7 +25,7 @@ namespace PROG
                 ChatBot bot = new ChatBot();
                 bot.StartChat();
             }
-
+             
             static void TypingEffect(string message)
             {
                 foreach (char c in message)
