@@ -78,7 +78,7 @@ namespace PROG
 
         
         }
-
+        //Typing effect added to make the chatbot responses more engaging and dynamic
         public void TypingEffect(string message)
         {
             foreach (char c in message)
