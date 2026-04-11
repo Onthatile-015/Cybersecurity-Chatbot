@@ -97,9 +97,9 @@ This chatbot demonstrates how basic programming concepts, user interaction, and 
 
 ##  Author
 
-- Student Name: (Your Name)
-- Course: (Your Course Name)
-- Module: (Your Module Name)
+- Student Name: ST10486338
+- Course: DISD2
+- Module: Programming 2A
 
 
 
