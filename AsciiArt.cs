@@ -9,8 +9,8 @@ namespace PROG
     internal class AsciiArt
     {
 
-       
- 
+
+        //ACII logo display added
         public static void DisplayLogo()
         {
             Console.ForegroundColor = ConsoleColor.Red;
