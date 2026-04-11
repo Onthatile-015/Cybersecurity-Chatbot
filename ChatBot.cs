@@ -28,6 +28,7 @@ namespace PROG
         {
 
             Console.WriteLine("-------------CHAT SSESSION-------------");
+            //User name input 
             Console.ForegroundColor = ConsoleColor.Yellow;
             TypingEffect("What is your name? ");
             userName = Console.ReadLine();
