@@ -78,7 +78,7 @@ GitHub Actions is used to automatically build and check the project whenever cha
 
 ###  CI Workflow Status
 
-
+![image alt](https://github.com/Onthatile-015/Cybersecurity-Chatbot/blob/f62ba35841150272368ffe1ca0a8e0cca2d9b961/Screenshot%202026-04-13%20113453.png)
 
 
 
